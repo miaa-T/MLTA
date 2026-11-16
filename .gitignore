@@ -1,0 +1,6 @@
+runs/
+rag_index/
+tests/tiny/
+tests/out/
+__pycache__/
+*.pyc
