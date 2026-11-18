@@ -4,3 +4,5 @@ tests/tiny/
 tests/out/
 __pycache__/
 *.pyc
+phase1_outputs/
+tests/out_phase1/

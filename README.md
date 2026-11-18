@@ -1,5 +1,10 @@
 # Where Does Forgetting Live?
 
+For the separate Phase 1 teaching lab, start with [PHASE1_GUIDE.md](PHASE1_GUIDE.md)
+and [phase1_lab.ipynb](phase1_lab.ipynb). The notebook runs independently of these
+scripts and defaults to a CPU rehearsal. See [PHASE1_VALIDATION.md](PHASE1_VALIDATION.md)
+for verified checks and the remaining real-data GPU validation.
+
 MLTA 2026 project: Mahdia Toubal, Yousra Meflah, Osman Yasir Ozyilmaz.
 
 We fine-tune a small LLM (Qwen2.5-1.5B-Instruct) on medical questions, measure

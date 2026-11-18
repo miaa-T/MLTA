@@ -1,0 +1,12 @@
+# Phase 1 only. Install GPU-compatible PyTorch for your platform before a real run.
+torch
+transformers>=4.45,<6
+peft
+accelerate
+datasets
+lm_eval[hf,ifeval]==0.4.13
+pandas
+matplotlib
+nbformat
+nbclient
+ipykernel
